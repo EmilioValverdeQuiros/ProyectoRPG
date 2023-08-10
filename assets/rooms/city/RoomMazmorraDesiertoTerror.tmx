@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="50" height="38" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="154">
+ <tileset firstgid="1" source="tsx1/FondoMazmorra.tsx"/>
+ <imagelayer id="15" name="RoomMazmorraTerror">
+  <image source="png/FondoMazmorraEdit.jpg" width="813" height="610"/>
+ </imagelayer>
+ <objectgroup color="#aa0000" id="16" name="Colisiones">
+  <object id="146" name="ParedA" x="-8.1399" y="-5.08744" width="229.952" height="305.246"/>
+  <object id="147" name="ParedB" x="-7.12242" y="386.645" width="226.9" height="230.97"/>
+  <object id="148" name="ParedC" x="220.795" y="-6.10493" width="595.231" height="151.606"/>
+  <object id="149" name="ParedD" x="598.283" y="147.536" width="218.76" height="76.3116"/>
+  <object id="150" name="ParedE" x="594.213" y="313.386" width="229.952" height="302.194"/>
+  <object id="151" name="ParedF" x="216.725" y="531.129" width="383.593" height="87.504"/>
+  <object id="152" name="entradaAnterior" x="798.561" y="221.871" width="0.880442" height="95.0877"/>
+  <object id="153" name="entradaSiguiente" x="1.32066" y="301.111" width="0.880442" height="95.0877"/>
+ </objectgroup>
+</map>

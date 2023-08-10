@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="50" height="38" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="156">
+ <tileset firstgid="1" source="tsx1/FondoDesierto.tsx"/>
+ <imagelayer id="15" name="RoomDelTiempo">
+  <image source="png/FondoDelTiempo.jpg" width="813" height="610"/>
+ </imagelayer>
+ <objectgroup color="#aa0000" id="16" name="Colisiones">
+  <object id="146" name="ParedA" x="-1.70272" y="-5.08744" width="213.83" height="368.821"/>
+  <object id="147" name="ParedB" x="-0.627098" y="456.03" width="215.122" height="153.055"/>
+  <object id="148" name="ParedC" x="203.655" y="530.169" width="607.498" height="78.1721"/>
+  <object id="149" name="ParedD" x="597.735" y="379.661" width="214.71" height="154.58"/>
+  <object id="151" name="ParedE" x="211.638" y="-5.08744" width="601.335" height="148.3"/>
+  <object id="152" name="ParedF" x="598.341" y="140.571" width="216.667" height="156.535"/>
+  <object id="154" name="entradaSiguiente" x="0" y="358.34" width="1.76088" height="103.012"/>
+  <object id="155" name="ParedH" x="796.859" y="269.604" width="2.52352" height="154.58"/>
+ </objectgroup>
+</map>

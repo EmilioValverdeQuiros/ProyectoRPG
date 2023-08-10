@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="50" height="38" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="155">
+ <tileset firstgid="1" source="tsx1/FondoJardin.tsx"/>
+ <imagelayer id="15" name="RoomJungla">
+  <image source="png/FondoJardinEdit.jpg" width="813" height="610"/>
+ </imagelayer>
+ <objectgroup color="#aa0000" id="16" name="Colisiones">
+  <object name="ParedA" id="146" x="-1.01749" y="-1.01749" width="212.597" height="222.498"/>
+  <object name="ParedB" id="147" x="-0.607578" y="-1.01749" width="811.546" height="149.571"/>
+  <object name="ParedC" id="148" x="600.982" y="137.714" width="210.973" height="162.445"/>
+  <object name="ParedD" id="149" x="-1.01749" y="311.351" width="218.838" height="227.825"/>
+  <object name="ParedE" id="150" x="0.352329" y="532.89" width="814.656" height="75.5682"/>
+  <object name="ParedF" id="151" x="595.7" y="386.098" width="217.273" height="151.332"/>
+  <object name="entradaSiguiente" id="152" x="0.880442" y="197.219" width="2.64133" height="134.708"/>
+  <object name="entradaAnterior" id="154" x="796.36" y="289.225" width="2.64133" height="124.142"/>
+ </objectgroup>
+</map>

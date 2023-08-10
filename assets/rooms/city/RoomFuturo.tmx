@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="50" height="38" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="158">
+ <tileset firstgid="1" source="tsx1/FondoArcadeEdit.tsx"/>
+ <imagelayer id="15" name="RoomFuturo">
+  <image source="png/FondoArcadeEdit.jpg" width="800" height="600"/>
+ </imagelayer>
+ <objectgroup color="#aa0000" id="16" name="Colisiones">
+  <object id="147" name="ParedA" x="-9.15739" y="-3.05246" width="220.422" height="290.629"/>
+  <object id="148" name="ParedB" x="-0.191512" y="375.645" width="207.236" height="183.622"/>
+  <object id="149" name="ParedC" x="1.56459" y="522.163" width="813.443" height="91.3824"/>
+  <object id="152" name="ParedD" x="592.934" y="-5.08744" width="220.039" height="536.216"/>
+  <object id="154" name="ParedE" x="445.136" y="-8.1399" width="154.165" height="151.385"/>
+  <object id="155" name="ParedF" x="207.648" y="-5.08744" width="147.948" height="148.593"/>
+  <object id="156" name="entradaSiguiente" x="0.866363" y="282.434" width="1.73273" height="97.0327"/>
+  <object id="157" name="entradaAnterior" x="353.476" y="2.60992e-06" width="97.0327" height="2.59909"/>
+ </objectgroup>
+</map>
